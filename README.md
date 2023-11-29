@@ -26,8 +26,8 @@
 
 ### :fire: My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0ev)](https://github.com/0ev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=predict-woo)](https://github.com/predict-woo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ev)](https://github.com/0ev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=predict-woo)](https://github.com/predict-woo)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0ev)](https://github.com/0ev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=predict-woo)](https://github.com/predict-woo)
