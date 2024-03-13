@@ -29,5 +29,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=predict-woo)](https://github.com/predict-woo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=predict-woo)](https://github.com/predict-woo)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=predict-woo)](https://github.com/predict-woo)
